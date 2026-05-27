@@ -25,4 +25,4 @@ may screencast or mirrorcast (miracast) To Android TV "mostly alam na gagamit na
 
 ![setup Screenshot](a3a3c285-1a3b-4483-8fdb-1ab706314fc8.jpg)
 
-![setup Screenshot](image.png)
+![setup Screenshot](cbcc681c-d427-4520-ae04-9c7b66272f5b.jpg)
