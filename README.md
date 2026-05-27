@@ -20,7 +20,7 @@ may screencast or mirrorcast (miracast) To Android TV "mostly alam na gagamit na
 1. Download .APK file
 2. Install chuy-scoreboard-app-release.apk
 3. Run app (may guide sa controls sa scoreboard)
-4. Connect Keyboard thru OTG
+4. Connect Keyboard thru OTG sa PHONE/TABLET
 5. Press START SCOREBOARD
 
 ![setup Screenshot](image.png)
